@@ -5,3 +5,4 @@ renv/
 *.html
 eda_files/
 env/
+model_files/
