@@ -2,3 +2,5 @@
 .Rproj.user/
 test13.Rproj
 renv/
+*.html
+eda_files/
