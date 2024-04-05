@@ -94,4 +94,7 @@ if not os.path.exists(f"{board_directory}/penguin_model.py"):
 ```{python}
 app = VetiverAPI(v, check_prototype=True)
 #app.run(port=8080)
+# 
+from vetiver import prepare_docker
+prepare_docker(model_board, "penguin_model")
 ```
