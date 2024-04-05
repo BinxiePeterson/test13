@@ -6,3 +6,5 @@ renv/
 eda_files/
 env/
 model_files/
+data/
+tmp/
