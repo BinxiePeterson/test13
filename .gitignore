@@ -8,3 +8,5 @@ env/
 model_files/
 data/
 tmp/
+/env/
+/.quarto/
