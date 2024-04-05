@@ -1,7 +1,0 @@
----
-title: Penguin Predictor App
-date: last-modified
-resources:
-  - .nojekyll
----
-This site shows the EDA of the palmerpenguins data.
